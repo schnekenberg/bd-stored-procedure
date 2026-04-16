@@ -1,4 +1,4 @@
-### Projeto: Stored Procedures
+# Projeto: Stored Procedures
 
 Este repositório contém a implementação de 10 exercícios práticos de Stored Procedures utilizando PostgreSQL (PL/pgSQL), desenvolvidos em ambiente de laboratório com Google Colab integrado ao banco de dados na nuvem via Neon.
 
